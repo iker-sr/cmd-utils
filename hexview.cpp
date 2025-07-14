@@ -1,3 +1,8 @@
+/*
+Build:
+    g++ hexview.cpp -std=c++17 -O2 -s -o hexview
+*/
+
 #include <iostream>
 #include <fstream>
 #include <filesystem>

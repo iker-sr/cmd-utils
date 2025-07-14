@@ -1,3 +1,8 @@
+/*
+Build:
+    g++ filesize.cpp -std=c++17 -O2 -s -o filesize
+*/
+
 #include <iostream>
 #include <filesystem>
 #include <cstring>

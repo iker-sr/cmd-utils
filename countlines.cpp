@@ -1,3 +1,8 @@
+/*
+Build:
+    g++ countlines.cpp -std=c++17 -O2 -s -o countlines
+*/
+
 #include <iostream>
 #include <fstream>
 #include <filesystem>
