@@ -42,6 +42,8 @@ unsigned long long count_lines(const char* path, bool& error) {
         count++;
     }
 
+    file.close();
+
     return count;
 }
 

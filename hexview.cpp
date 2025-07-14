@@ -60,6 +60,8 @@ void hexview(char* filepath, unsigned short columns, unsigned long long rows, un
             std::cout << ' ';
         }
     }
+
+    file.close();
 }
 
 int main(int argc, char* argv[]) {
