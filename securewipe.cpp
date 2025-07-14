@@ -1,3 +1,8 @@
+/*
+Build:
+    g++ securewipe.cpp -std=c++17 -O2 -s -o securewipe
+*/
+
 #include <iostream>
 #include <fstream>
 #include <filesystem>
